@@ -1,0 +1,15 @@
+--Add data to our customer table
+INSERT INTO CUSTOMER(
+	customer_id,
+	first_name,
+	last_name,
+	address,
+	billing_info
+)
+VALUES (
+	1,
+	SHELLY,
+	SHELL,
+	123 tired,
+	123456
+);

@@ -1,0 +1,39 @@
+INSERT INTO customer(
+	customer_id,
+	first_name,
+	last_name,
+	address,
+	billing_info
+);	
+	
+
+VALUES (
+	1,
+	'Brian',
+	'Stanton',
+	'555 Michigan Ave',
+	'555 Michigan Ave Chicago, IL 60601'
+);	
+VALUES(
+	'Bob',
+	'Smith',
+	'222 Circle Dr',
+	'222 Circle Dr Chicago, IL 60632'
+);	
+VALUES(
+	'Jimmy',
+	'Johns',
+	'123 Sandwich St',
+	'123 Sandwich St Champaign, IL 61820'
+),
+(
+	'Ronald',
+	'McDonald',
+	'666 Burger Ave',
+	'666 Burger Ave Des Plaines, IL 61652'
+);
+
+
+	
+	
+	
